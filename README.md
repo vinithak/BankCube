@@ -22,9 +22,9 @@ Com o tempo teremos aprimorações
 - addEventListener
 - Validação de CPF
 - Validação maior idade 
-- validity State
+- Validity State
 - Manipulando o DOM 
-- localStorage  
+- Local Storage  
 
 ## Como rodar este projeto 
 
