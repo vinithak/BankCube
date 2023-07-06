@@ -1,6 +1,4 @@
-GIRLLLLLL
-FIX THOSE URLS!!!!!
-TOTALLY BROKEN!
+Fixed your links!
 
 # Bank Cube:
 
