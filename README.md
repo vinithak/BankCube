@@ -1,7 +1,8 @@
-GIRLLLLLL
-FIX THOSE URLS!!!!!
-TOTALLY BROKEN!
+Fixed your links!
+
+Url fix.
 Hey from Vinitha
+
 
 # Bank Cube:
 
