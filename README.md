@@ -1,8 +1,22 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+GIRLLLLLL
+FIX THOSE URLS!!!!!
+TOTALLY BROKEN!
+Hey from Vinitha
+=======
+
+=======
+>>>>>>> 74f2439e0b24a159a7e4567c6fa22ff879761fed
 Fixed your links!
 
 Url fix.
 Hey from Vinitha
 
+<<<<<<< HEAD
+>>>>>>> 181075ebef4f914aab51ddd1368585ddddfd98d1
+=======
+>>>>>>> 74f2439e0b24a159a7e4567c6fa22ff879761fed
 
 # Bank Cube:
 
